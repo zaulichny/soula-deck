@@ -29,7 +29,7 @@
 
 **Способ 1 — через GitHub (рекомендуется):**
 ```bash
-git clone <ссылка-на-репозиторий> ~/.claude/skills/soula-deck
+git clone https://github.com/zaulichny/soula-deck ~/.claude/skills/soula-deck
 ```
 Чтобы потом получать обновления — `cd ~/.claude/skills/soula-deck && git pull`.
 
@@ -38,9 +38,6 @@ git clone <ссылка-на-репозиторий> ~/.claude/skills/soula-deck
 
 После установки в Claude Code напиши `/soula-deck` или просто попроси
 «сделай презентацию в стиле SOULA».
-
-> Репозиторий приватный — чтобы коллега получил доступ, его GitHub-аккаунт нужно
-> добавить в коллабораторы (или принять приглашение, которое придёт ему на почту).
 
 ## Что внутри (для технических)
 
