@@ -1,0 +1,786 @@
+{
+  "title": {
+    "donor": 2,
+    "title": "Титульный слайд",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "subtitle": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "presenter_label": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "presenter": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "team_label": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "team": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "date_label": {
+        "shape": 8,
+        "para": 0,
+        "kind": "plain"
+      },
+      "date": {
+        "shape": 9,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 11,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "section": {
+    "donor": 3,
+    "title": "Разделитель раздела",
+    "fields": {
+      "number": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "eyebrow": {
+        "shape": 2,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 3,
+        "para": 0,
+        "kind": "accent"
+      },
+      "subtitle": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 6,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "context": {
+    "donor": 4,
+    "title": "Контекст: тезис + поддержка",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "lead": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "supporting": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "note": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 7,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "two-columns": {
+    "donor": 5,
+    "title": "Две колонки",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "colA_tag": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "colA_heading": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "colA_body": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "colB_tag": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "colB_heading": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "colB_body": {
+        "shape": 8,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 10,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "agenda": {
+    "donor": 6,
+    "title": "Повестка / список (до 4 пунктов)",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "item1_num": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item1_heading": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item1_body": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item2_num": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item2_heading": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item2_body": {
+        "shape": 8,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item3_num": {
+        "shape": 9,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item3_heading": {
+        "shape": 10,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item3_body": {
+        "shape": 11,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item4_num": {
+        "shape": 12,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item4_heading": {
+        "shape": 13,
+        "para": 0,
+        "kind": "plain"
+      },
+      "item4_body": {
+        "shape": 14,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 16,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "numbers": {
+    "donor": 7,
+    "title": "Цифры / метрики (3 показателя)",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "intro": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "stat1_value": {
+        "shape": 4,
+        "para": 0,
+        "kind": "run",
+        "run": 0
+      },
+      "stat1_label": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "stat2_value": {
+        "shape": 6,
+        "para": 0,
+        "kind": "run",
+        "run": 0
+      },
+      "stat2_label": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "stat3_value": {
+        "shape": 8,
+        "para": 0,
+        "kind": "run",
+        "run": 0
+      },
+      "stat3_label": {
+        "shape": 9,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 11,
+        "para": 0,
+        "kind": "pagenum"
+      },
+      "stat1_unit": {
+        "shape": 4,
+        "para": 0,
+        "run": 1,
+        "kind": "run"
+      },
+      "stat2_unit": {
+        "shape": 6,
+        "para": 0,
+        "run": 1,
+        "kind": "run"
+      },
+      "stat3_unit": {
+        "shape": 8,
+        "para": 0,
+        "run": 1,
+        "kind": "run"
+      }
+    }
+  },
+  "before-after": {
+    "donor": 8,
+    "title": "Было / Стало",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "before_tag": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "before_heading": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "before_lines": {
+        "shape": 5,
+        "para": 0,
+        "kind": "multiline"
+      },
+      "after_tag": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "after_heading": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "after_lines": {
+        "shape": 8,
+        "para": 0,
+        "kind": "multiline"
+      },
+      "_pagenum": {
+        "shape": 10,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "roadmap": {
+    "donor": 9,
+    "title": "Дорожная карта (4 фазы)",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "phase1_tag": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase1_heading": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase1_body": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase2_tag": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase2_heading": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase2_body": {
+        "shape": 8,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase3_tag": {
+        "shape": 9,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase3_heading": {
+        "shape": 10,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase3_body": {
+        "shape": 11,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase4_tag": {
+        "shape": 12,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase4_heading": {
+        "shape": 13,
+        "para": 0,
+        "kind": "plain"
+      },
+      "phase4_body": {
+        "shape": 14,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 16,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "overview": {
+    "donor": 10,
+    "title": "Обзор: тезис слева + пункты справа (до 4)",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "intro": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "bullet1_heading": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "bullet1_body": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "bullet2_heading": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "bullet2_body": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "bullet3_heading": {
+        "shape": 8,
+        "para": 0,
+        "kind": "plain"
+      },
+      "bullet3_body": {
+        "shape": 9,
+        "para": 0,
+        "kind": "plain"
+      },
+      "bullet4_heading": {
+        "shape": 10,
+        "para": 0,
+        "kind": "plain"
+      },
+      "bullet4_body": {
+        "shape": 11,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 13,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "steps-screen": {
+    "donor": 11,
+    "title": "Как это работает + скриншот (3 шага)",
+    "fields": {
+      "screen_label": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "eyebrow": {
+        "shape": 2,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 3,
+        "para": 0,
+        "kind": "accent"
+      },
+      "step1_num": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step1_heading": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step1_body": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step2_num": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step2_heading": {
+        "shape": 8,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step2_body": {
+        "shape": 9,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step3_num": {
+        "shape": 10,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step3_heading": {
+        "shape": 11,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step3_body": {
+        "shape": 12,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 14,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "features-screen": {
+    "donor": 12,
+    "title": "Что получаешь + скриншот (3 пункта)",
+    "fields": {
+      "screen_label": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "eyebrow": {
+        "shape": 2,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 3,
+        "para": 0,
+        "kind": "accent"
+      },
+      "feature1_heading": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "feature1_body": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "feature2_heading": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "feature2_body": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "feature3_heading": {
+        "shape": 8,
+        "para": 0,
+        "kind": "plain"
+      },
+      "feature3_body": {
+        "shape": 9,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 11,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "steps-alt": {
+    "donor": 13,
+    "title": "Как это работает (компактно) + скриншот",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "screen_label": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step1_tag": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step1_heading": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step1_body": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step2_tag": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step2_heading": {
+        "shape": 8,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step2_body": {
+        "shape": 9,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step3_tag": {
+        "shape": 10,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step3_heading": {
+        "shape": 11,
+        "para": 0,
+        "kind": "plain"
+      },
+      "step3_body": {
+        "shape": 12,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 14,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  },
+  "closing": {
+    "donor": 14,
+    "title": "Спасибо / контакты",
+    "fields": {
+      "eyebrow": {
+        "shape": 1,
+        "para": 0,
+        "kind": "plain"
+      },
+      "headline": {
+        "shape": 2,
+        "para": 0,
+        "kind": "accent"
+      },
+      "subtitle": {
+        "shape": 3,
+        "para": 0,
+        "kind": "plain"
+      },
+      "contact1_label": {
+        "shape": 4,
+        "para": 0,
+        "kind": "plain"
+      },
+      "contact1_value": {
+        "shape": 5,
+        "para": 0,
+        "kind": "plain"
+      },
+      "contact2_label": {
+        "shape": 6,
+        "para": 0,
+        "kind": "plain"
+      },
+      "contact2_value": {
+        "shape": 7,
+        "para": 0,
+        "kind": "plain"
+      },
+      "contact3_label": {
+        "shape": 8,
+        "para": 0,
+        "kind": "plain"
+      },
+      "contact3_value": {
+        "shape": 9,
+        "para": 0,
+        "kind": "plain"
+      },
+      "_pagenum": {
+        "shape": 11,
+        "para": 0,
+        "kind": "pagenum"
+      }
+    }
+  }
+}

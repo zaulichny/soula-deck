@@ -1,0 +1,50 @@
+{
+  "slides": [
+    {"layout": "title", "fields": {
+      "eyebrow": "ВНУТРЕННИЙ СИНК · ИЮНЬ 2026",
+      "headline": "Чек-ин, который *чувствует* тебя",
+      "subtitle": "Короткая рамка о том, про что эта презентация — одно спокойное предложение.",
+      "presenter": "Дмитрий",
+      "team": "Product · Soula",
+      "date": "1 июня 2026"
+    }},
+    {"layout": "section", "fields": {
+      "number": "01",
+      "eyebrow": "РАЗДЕЛ",
+      "headline": "Где мы сейчас, *честно*.",
+      "subtitle": "Короткое вступление к главе."
+    }},
+    {"layout": "two-columns", "fields": {
+      "eyebrow": "ДВЕ КОЛОНКИ",
+      "headline": "Два пункта *рядом*",
+      "colA_heading": "Сейчас",
+      "colA_body": "Чек-ин слишком большой, чтобы интегрировать целиком.",
+      "colB_heading": "Дальше",
+      "colB_body": "Делим на Essential и Additional, начинаем с малого."
+    }},
+    {"layout": "numbers", "fields": {
+      "eyebrow": "В ЦИФРАХ",
+      "headline": "Пусть числа *говорят*",
+      "intro": "Одна рамка сверху, три числа покрупнее.",
+      "stat1_value": "5", "stat1_unit": " экранов", "stat1_label": "в Essential-потоке чек-ина.",
+      "stat2_value": "40", "stat2_unit": " карт", "stat2_label": "в библиотеке Who Are You Today.",
+      "stat3_value": "3", "stat3_unit": " зоны", "stat3_label": "кризисной поддержки остаются."
+    }},
+    {"layout": "before-after", "fields": {
+      "eyebrow": "БЫЛО / СТАЛО",
+      "headline": "Покажи *сдвиг*",
+      "before_heading": "Старый путь",
+      "before_lines": "Чек-ин целиком — тяжело.\nСлишком много шагов сразу.\nСложно интегрировать.",
+      "after_heading": "Новый путь",
+      "after_lines": "Essential — пять простых экранов.\nОдин флаг управляет фазой.\nAdditional вернём позже."
+    }},
+    {"layout": "closing", "fields": {
+      "eyebrow": "СПАСИБО",
+      "headline": "Вопросы и *что дальше*",
+      "subtitle": "Закрой одним, что хочешь, чтобы команда запомнила.",
+      "contact1_value": "#team-soula",
+      "contact2_value": "d.zaulichny@soula.care",
+      "contact3_value": "go/soula-checkin"
+    }}
+  ]
+}
